@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f48a12092584cd94f85da3943e53cecc
+timeCreated: 1488047362
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Mixer: {fileID: 243384472647957202, guid: c510b68e3c2711b429fd040a13dae0c1, type: 2}
+  - FlashLight: {instanceID: 0}
+  - PowerUpClip: {fileID: 8300000, guid: ea72391674bdf934a8a2744821155c1a, type: 3}
+  - PowerDownClip: {fileID: 8300000, guid: f09ca30067d04864dbb4b3a02211b9e2, type: 3}
+  - AccelerateClip: {fileID: 8300000, guid: 49a57050fffe52641a2187daded215de, type: 3}
+  - NoSignalClip: {fileID: 8300000, guid: 2a0f8a8b949baa14f9df7d4046e9106c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

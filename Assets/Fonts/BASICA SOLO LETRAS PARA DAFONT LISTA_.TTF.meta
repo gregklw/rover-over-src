@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a69d9021e354b344c82782428d5ff76c
+timeCreated: 1488733973
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Basica v.2012
+  fontNames:
+  - Basica v.2012
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

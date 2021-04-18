@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be7f65ba2da95ac4da3e8f161ec385c6
+timeCreated: 1489121813
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - EnvironmentMixer: {fileID: 24100000, guid: c510b68e3c2711b429fd040a13dae0c1, type: 2}
+  - MusicMixer: {fileID: 24100000, guid: 4a250f958e5e8ae4dbda0910055e55ab, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

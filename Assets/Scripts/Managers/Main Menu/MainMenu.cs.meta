@@ -1,0 +1,44 @@
+fileFormatVersion: 2
+guid: 3485b447d69334b4fa0ef64cbca3d3a0
+timeCreated: 1488748828
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MainFont: {fileID: 12800000, guid: d5722795100984f4cb0ea1170b4b5ab9, type: 3}
+  - NamePanel: {instanceID: 0}
+  - LoadingPanel: {instanceID: 0}
+  - MessengerPanel: {instanceID: 0}
+  - Mixer: {instanceID: 0}
+  - ButtonHighlightedClip: {instanceID: 0}
+  - ButtonClickClip: {instanceID: 0}
+  - MainPanel: {instanceID: 0}
+  - PlayButton: {instanceID: 0}
+  - OptionsButton: {instanceID: 0}
+  - CreditButton: {instanceID: 0}
+  - QuitButton: {instanceID: 0}
+  - OptionsPanel: {instanceID: 0}
+  - OptionsControlsPanel: {instanceID: 0}
+  - OptionsControlsButton: {instanceID: 0}
+  - ControlsNamesPanel: {instanceID: 0}
+  - ControlsKMPanel: {instanceID: 0}
+  - ControlsCPanel: {instanceID: 0}
+  - ControlsDefaultButton: {instanceID: 0}
+  - OptionsGraphicsPanel: {instanceID: 0}
+  - OptionsGraphicsButton: {instanceID: 0}
+  - GraphicsApplyButton: {instanceID: 0}
+  - OptionsAudioPanel: {instanceID: 0}
+  - OptionsAudioButton: {instanceID: 0}
+  - MasterVolumeSlider: {instanceID: 0}
+  - EnvironmentVolumeSlider: {instanceID: 0}
+  - MusicVolumeSlider: {instanceID: 0}
+  - BackOptionsButton: {instanceID: 0}
+  - CreditPanel: {instanceID: 0}
+  - BackCreditButton: {instanceID: 0}
+  - LabelPrefab: {instanceID: 0}
+  - ButtonPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cd79de3bd8a61bd438a169a721f58258
+timeCreated: 1487612494
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Ranger 3D
+  fontNames:
+  - Space Ranger 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

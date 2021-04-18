@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bfbb08c56cac6304196d952785482508
+timeCreated: 1488047377
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Mixer: {fileID: 243387071967643826, guid: c510b68e3c2711b429fd040a13dae0c1, type: 2}
+  - JumpClip: {fileID: 8300000, guid: 45f89d0213b2ddb439f4813bc178fa30, type: 3}
+  - LandClip: {fileID: 8300000, guid: 8ccadeed6fc07e041a38c26477d6bdb6, type: 3}
+  - AttackClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
